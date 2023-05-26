@@ -1,1 +1,1 @@
-Web Lab 2
+WebLab2
